@@ -13,6 +13,7 @@
 		AF20AF1D23AB1CCA00347C74 /* Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = AF20AF1C23AB1CCA00347C74 /* Assets.xcassets */; };
 		AF20AF2023AB1CCB00347C74 /* Preview Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = AF20AF1F23AB1CCB00347C74 /* Preview Assets.xcassets */; };
 		AF20AF2323AB1CCB00347C74 /* LaunchScreen.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = AF20AF2123AB1CCB00347C74 /* LaunchScreen.storyboard */; };
+		AF20AF2B23AB1CFF00347C74 /* Stores.swift in Sources */ = {isa = PBXBuildFile; fileRef = AF20AF2A23AB1CFF00347C74 /* Stores.swift */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
@@ -24,6 +25,7 @@
 		AF20AF1F23AB1CCB00347C74 /* Preview Assets.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = "Preview Assets.xcassets"; sourceTree = "<group>"; };
 		AF20AF2223AB1CCB00347C74 /* Base */ = {isa = PBXFileReference; lastKnownFileType = file.storyboard; name = Base; path = Base.lproj/LaunchScreen.storyboard; sourceTree = "<group>"; };
 		AF20AF2423AB1CCB00347C74 /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
+		AF20AF2A23AB1CFF00347C74 /* Stores.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = Stores.swift; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -59,6 +61,7 @@
 				AF20AF1623AB1CC700347C74 /* AppDelegate.swift */,
 				AF20AF1823AB1CC700347C74 /* SceneDelegate.swift */,
 				AF20AF1A23AB1CC700347C74 /* ContentView.swift */,
+				AF20AF2A23AB1CFF00347C74 /* Stores.swift */,
 				AF20AF1C23AB1CCA00347C74 /* Assets.xcassets */,
 				AF20AF2123AB1CCB00347C74 /* LaunchScreen.storyboard */,
 				AF20AF2423AB1CCB00347C74 /* Info.plist */,
@@ -149,6 +152,7 @@
 				AF20AF1723AB1CC700347C74 /* AppDelegate.swift in Sources */,
 				AF20AF1923AB1CC700347C74 /* SceneDelegate.swift in Sources */,
 				AF20AF1B23AB1CC700347C74 /* ContentView.swift in Sources */,
+				AF20AF2B23AB1CFF00347C74 /* Stores.swift in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
